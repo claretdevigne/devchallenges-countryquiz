@@ -3,7 +3,6 @@ import { useSelector } from 'react-redux'
 import CapitalQuestion from './CapitalQuestion'
 import FlagQuestion from './FlagQuestion'
 import Results from './Results'
-import Verify from './Verify'
 
 export default function Quiz() {
 
